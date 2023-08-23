@@ -1,2 +1,3 @@
-# Proyecto-TDP-2024-Grupo2
-Realización de un videojuego construido en lenguaje C# ,con los aprendizajes adquiridos en la clase de "Técnicas de Programación" de la Facultad de Ingeniería de la UNAM.
+# Videojuego en C#
+##Descripción:
+El fin del presente repositorio es el de recopilar los avances obtenidos cada semana respecto a la creación de un videojuego en lenguaje C# el cuál será evaluado como proyecto en el curso de Técnicas de Programación impartido en la Facultad de Ingeniería de la UNAM
